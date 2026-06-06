@@ -140,7 +140,7 @@ https://nexvradigital.my.id
 
 ### Email
 
-nexvradev@gmail.com
+owner@nexvradigital.my.id
 
 ### GitHub
 
